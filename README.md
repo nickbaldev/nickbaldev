@@ -1,4 +1,6 @@
 <h1>Hi, I'm Nick! </h1>
+I'm a junior at Swarthmore College in Pennsylvania double majoring in Computer Science and Economics, along with being a pitcher of the Swarthmore baseball team. Focus includes a specialization in software, cybersecurity, and fintech. 
+
 
 <h2> Projects and Labs:</h2>
 
