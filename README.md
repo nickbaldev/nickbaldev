@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Nick! </h1>
 
-<!--
-**nickbaldev/nickbaldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>TIC-80 Projects (lua)</b>
+  - [Centipede Remake]()
+- <b>C & C++</b>
+  - [Conway's Game of Life]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h2> Connect with me:</h2>
+
+[linkedin]: https://linkedin.com/in/
