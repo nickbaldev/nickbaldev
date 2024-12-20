@@ -3,7 +3,7 @@
 <h2> Projects:</h2>
 
 - <b>TIC-80 Projects (lua)</b>
-  - [Centipede Remake]()
+  - [Centipede Remake](https://github.com/nickbaldev/centipede-remake/tree/main)
 - <b>C & C++</b>
   - [Conway's Game of Life]()
 
