@@ -6,7 +6,7 @@ I'm a junior at Swarthmore College in Pennsylvania double majoring in Computer S
 
 - <b>Game Design Projects</b>
   - [Centipede Remake](https://github.com/nickbaldev/centipede-remake/tree/main)
-  - [Don't Touch the Spikes]()
+  - [Don't Touch the Spikes](https://github.com/nickbaldev/Dont-Touch-The-Spikes-Remake)
 - <b>C</b>
   - [Conway's Game of Life](https://github.com/nickbaldev/Conways-GameOfLife-lab)
 - <b>Cybersecurity Labs</b>
