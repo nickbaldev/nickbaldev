@@ -4,7 +4,7 @@ I'm a junior at Swarthmore College in Pennsylvania double majoring in Computer S
 
 <h2> Projects and Labs:</h2>
 
-- <b>TIC-80 Projects (Lua)</b>
+- <b>Game Design Projects</b>
   - [Centipede Remake](https://github.com/nickbaldev/centipede-remake/tree/main)
   - [Don't Touch the Spikes]()
 - <b>C</b>
