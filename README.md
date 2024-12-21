@@ -12,7 +12,7 @@ I'm a junior at Swarthmore College in Pennsylvania double majoring in Computer S
 - <b>Cybersecurity Labs</b>
   - [Buffer Overflows](https://github.com/nickbaldev/Buffer-Overflows-Lab)
   - [SQL Injection Attacks](https://github.com/nickbaldev/SQL-Injection-Attacks-Lab)
-  - [Crytography]()
+  - [Crytography](https://github.com/nickbaldev/Cryptography-Lab)
   - [Public Key Infrastucture & Internet of Things]()
   - [Network Security: Packet Sniffing]()
 
