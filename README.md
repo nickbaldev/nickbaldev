@@ -2,11 +2,11 @@
 I'm a junior at Swarthmore College in Pennsylvania double majoring in Computer Science and Economics, along with being a pitcher of the Swarthmore baseball team. Focus includes a specialization in software, cybersecurity, and fintech. 
 
 
-<h2> Projects and Labs:</h2>
+<h2> Projects and Labs:</h2>  
 - <b>Projects</b>  
   - [Open Source Web Based Code Editor]()  
-  - [ChatBot Games]()  
-  - [Stock Tracker CLI]()  
+  - [ChatBot Games]()   
+  - [Stock Tracker CLI]()    
 - <b>Game Design Remakes</b>  
   - [Centipede Remake](https://github.com/nickbaldev/centipede-remake/tree/main)
   - [Don't Touch the Spikes](https://github.com/nickbaldev/Dont-Touch-The-Spikes-Remake)
