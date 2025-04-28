@@ -4,9 +4,9 @@ I'm a junior at Swarthmore College in Pennsylvania double majoring in Computer S
 
 <h2> Projects and Labs:</h2>
 - <b></b>
-  - [Open Source Web Based Code Editor]
-  - [ChatBot Games]
-  - [Stock Tracker CLI]
+  - [Open Source Web Based Code Editor]()
+  - [ChatBot Games]()
+  - [Stock Tracker CLI]()
 - <b>Game Design Remakes</b>
   - [Centipede Remake](https://github.com/nickbaldev/centipede-remake/tree/main)
   - [Don't Touch the Spikes](https://github.com/nickbaldev/Dont-Touch-The-Spikes-Remake)
