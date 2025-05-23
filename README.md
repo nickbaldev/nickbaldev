@@ -6,7 +6,7 @@ I'm a junior at Swarthmore College in Pennsylvania double majoring in Computer S
 
 - <b>Projects</b>
   - [Open Source Web Based Code Editor]()
-  - [ChatBot Games]()   
+  - [ChatBot Games](https://github.com/griffinmo-ore/ChatBotGames)   
   - [Stock Viewer Command Line Tool]()    
 - <b>Game Design Remakes</b>  
   - [Centipede Remake](https://github.com/nickbaldev/centipede-remake/tree/main)
