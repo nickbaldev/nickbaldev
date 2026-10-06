@@ -7,7 +7,7 @@ I am a UIUC Master of Computer Science student and Swarthmore College Computer S
   - [Image Classification: Basic ML Models vs. Neural Networks](https://github.com/nickbaldev/Image-Classification)
   - [Open Source Web Based Code Editor]()
   - [ChatBot Games](https://github.com/griffinmo-ore/ChatBotGames)   
-  - [Stock Viewer Command Line Tool]()    
+  - [Stock Viewer Command Line Tool](https://github.com/nickbaldev/stock-command-line-tool)    
 - <b>Game Design Remakes</b>  
   - [Centipede Remake](https://github.com/nickbaldev/centipede-remake/tree/main)
   - [Don't Touch the Spikes Remake](https://github.com/nickbaldev/Dont-Touch-The-Spikes-Remake)
