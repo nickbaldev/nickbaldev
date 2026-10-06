@@ -1,29 +1,28 @@
-<h1>Hi, I'm Nick! </h1>
-I am a UIUC Master of Computer Science student and Swarthmore College Computer Science/Economics graduate with experience in software engineering, machine learning, and computer science research. Built full-stack and ML applications in Python and JavaScript and an embeddable web code editor for educational use. Seeking 2027 software engineering and applied AI/ML roles.
+# Hi, I'm Nick
 
-<h2> Projects and Labs:</h2>  
+I'm a Master of Computer Science student at the University of Illinois Urbana-Champaign, pursuing the Artificial Intelligence graduate track, after earning a B.A. in Computer Science and Economics from Swarthmore College.
 
-- <b>Projects</b>
-  - [Image Classification: Basic ML Models vs. Neural Networks](https://github.com/nickbaldev/Image-Classification)
-  - [Open Source Web Based Code Editor]()
-  - [ChatBot Games](https://github.com/griffinmo-ore/ChatBotGames)   
-  - [Stock Viewer Command Line Tool](https://github.com/nickbaldev/stock-command-line-tool)    
-- <b>Game Design Remakes</b>  
-  - [Centipede Remake](https://github.com/nickbaldev/centipede-remake/tree/main)
-  - [Don't Touch the Spikes Remake](https://github.com/nickbaldev/Dont-Touch-The-Spikes-Remake)
-- <b>C</b>
-  - [Conway's Game of Life](https://github.com/nickbaldev/Conways-GameOfLife-lab)
-- <b>Cybersecurity Labs</b>
-  - [Buffer Overflows](https://github.com/nickbaldev/Buffer-Overflows-Lab)
-  - [SQL Injection Attacks](https://github.com/nickbaldev/SQL-Injection-Attacks-Lab)
-  - [Crytography](https://github.com/nickbaldev/Cryptography-Lab)
-  - [Public Key Infrastucture & Internet of Things](https://github.com/nickbaldev/PublicKeyInfrastructure-Lab)
-  - [Network Security: Packet Sniffing](https://github.com/nickbaldev/PacketSniffing-Lab)
+I'm interested in **software engineering, machine learning, and applied AI**—especially building systems that turn research ideas into useful software.
 
+## What I'm working on
 
+- **Machine Learning:** PyTorch, torchvision, scikit-learn, model evaluation and experimentation
+- **Software Engineering:** Python, Java, C/C++, JavaScript, Flask, SQL, Git
+- **Computer Science:** algorithms, data structures, systems, statistics, and problem solving
+- **Currently:** building stronger production-oriented AI/software projects during my MCS
 
-<h2> Connect with me:</h2>
+## Selected Projects
 
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- **[Image Classification](https://github.com/nickbaldev/Image-Classification)** — comparison of traditional ML models, fully connected neural networks, and CNNs on MNIST and CIFAR-10
+- **[Stock Viewer Command Line Tool](https://github.com/nickbaldev/stock-command-line-tool)** — Python terminal application for retrieving, sorting, caching, and displaying market data
+- **[Centipede Remake](https://github.com/nickbaldev/centipede-remake)** — Lua/TIC-80 game implementation
+- **[Don't Touch the Spikes Remake](https://github.com/nickbaldev/Dont-Touch-The-Spikes-Remake)** — Lua/TIC-80 game implementation
+- **[ChatBot Games](https://github.com/griffinmo-ore/ChatBotGames)** — collaborative full-stack project using JavaScript, Python/Flask, SQLite, and AJAX
 
-[linkedin]: https://linkedin.com/in/
+## Background
+
+I've worked on computer science research, ML projects, full-stack applications, systems/security coursework, and software projects ranging from terminal tools to games. I also compete in poker and played NCAA Division III baseball, experiences that have shaped how I approach decision-making, teamwork, and performing under pressure.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/nicholas-baldev/)
