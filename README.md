@@ -4,7 +4,7 @@ I am a UIUC Master of Computer Science student and Swarthmore College Computer S
 <h2> Projects and Labs:</h2>  
 
 - <b>Projects</b>
-  - [Image Classification: Basic ML Models vs. Neural Networks]()
+  - [Image Classification: Basic ML Models vs. Neural Networks](https://github.com/nickbaldev/Image-Classification)
   - [Open Source Web Based Code Editor]()
   - [ChatBot Games](https://github.com/griffinmo-ore/ChatBotGames)   
   - [Stock Viewer Command Line Tool]()    
