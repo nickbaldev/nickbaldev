@@ -1,10 +1,10 @@
 <h1>Hi, I'm Nick! </h1>
-I'm a junior at Swarthmore College in Pennsylvania double majoring in Computer Science and Economics, along with being a pitcher of the Swarthmore baseball team. Focus includes a specialization in software, cybersecurity, and fintech. 
-
+I am a UIUC Master of Computer Science student and Swarthmore College Computer Science/Economics graduate with experience in software engineering, machine learning, and computer science research. Built full-stack and ML applications in Python and JavaScript and an embeddable web code editor for educational use. Seeking 2027 software engineering and applied AI/ML roles.
 
 <h2> Projects and Labs:</h2>  
 
 - <b>Projects</b>
+  - [Image Classification: Basic ML Models vs. Neural Networks]()
   - [Open Source Web Based Code Editor]()
   - [ChatBot Games](https://github.com/griffinmo-ore/ChatBotGames)   
   - [Stock Viewer Command Line Tool]()    
