@@ -25,4 +25,4 @@ I've worked on computer science research, ML projects, full-stack applications, 
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/nicholas-baldev/)
+- [LinkedIn](www.linkedin.com/in/nick-baldev)
