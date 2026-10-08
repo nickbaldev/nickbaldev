@@ -16,7 +16,7 @@ I'm interested in **software engineering, machine learning, and applied AI**—e
 - **[Image Classification](https://github.com/nickbaldev/Image-Classification)** — comparison of traditional ML models, fully connected neural networks, and CNNs on MNIST and CIFAR-10
 - **[Stock Viewer Command Line Tool](https://github.com/nickbaldev/stock-viewer)** — Python terminal application for retrieving, sorting, caching, and displaying market data
 - **[Centipede Remake](https://github.com/nickbaldev/centipede-remake)** — Lua/TIC-80 game implementation
-- **[Don't Touch the Spikes Remake](https://github.com/nickbaldev/dont-touch-the-tpikes)** — Lua/TIC-80 game implementation
+- **[Don't Touch the Spikes Remake](https://github.com/nickbaldev/dont-touch-the-spikes)** — Lua/TIC-80 game implementation
 - **[ChatBot Games](https://github.com/griffinmo-ore/ChatBotGames)** — collaborative full-stack project using JavaScript, Python/Flask, SQLite, and AJAX
 
 ## Background
